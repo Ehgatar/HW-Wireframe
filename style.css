@@ -1,0 +1,53 @@
+body {
+	font-size: 14px;
+	line-height: 32px;
+	color: #333;
+	background-color: grey
+}
+
+.header {	
+	background: #eee;
+	position: absolute;
+	padding: 20px;
+	width: 300px;
+	height: 1%;
+	text-align: center;
+	margin-bottom: 5px;
+	padding: 15%;
+	left: 225px;
+}
+
+#nav {
+	position: fixed;
+	background: #eee
+}
+
+#section {
+	position: fixed;
+	background: #eee
+}
+
+#article {
+	position: relative;
+	background: #eee
+}
+
+#h1,h2,h3 {
+	position: fixed;
+	background: #eee
+}
+
+#p {
+	position: absolute;
+	background: #eee
+}
+
+#aside {
+	position: fixed;
+	background: #eee
+
+}
+
+#footer {
+	position: #eee
+}
